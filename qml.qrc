@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DatePicker.qml</file>
+        <file>LineInputDate.qml</file>
+        <file>pic/switch/bg.jpg</file>
+        <file>pic/switch/bg.png</file>
+        <file>pic/switch/switch_2_off.png</file>
+        <file>pic/switch/switch_2_on.png</file>
+        <file>pic/bcgr_02.jpg</file>
+        <file>pic/buttonOff.png</file>
+        <file>pic/buttonOn.png</file>
+        <file>pic/check.png</file>
+        <file>pic/exit.png</file>
+        <file>pic/lineedit.png</file>
+        <file>pic/lineedit.sci</file>
+        <file>pic/logoff.png</file>
+        <file>pic/scrollbar.png</file>
+        <file>pic/toolbutton.png</file>
+        <file>pic/toolbutton.sci</file>
+        <file alias="FontAwesome">font/fontawesome-webfont.ttf</file>
+    </qresource>
+</RCC>
